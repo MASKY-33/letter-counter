@@ -1,7 +1,7 @@
 # Letter Counter Program
 This program asks the user to enter their name and then counts how many letters it contains, ignoring spaces.
 
-# Features
+## Features
 - Asks the user to input their name
 - Removes spaces before counting
 - Displays the total number of letters
